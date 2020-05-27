@@ -1,4 +1,4 @@
-# MOOC Planet
+# MOOC Planet｜慕课星球
 
 1.陌生人的评论
 
