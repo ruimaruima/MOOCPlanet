@@ -8,4 +8,4 @@
 优质免费慕课推荐
 
 2020年
-6月 ｜ 第1期 ｜ 第2期 ｜ 第3期 ｜ 第4期
+6月 ｜ [第1期](https://github.com/ruimaruima/MOOCPlanet/blob/master/weekly/issue1.md) ｜ 第2期 ｜ 第3期 ｜ 第4期
