@@ -1,4 +1,11 @@
-## Part 1. [最新慕课](https://www.classcentral.com/list/20200525-1kq9p5fjrqx)
+## [最新慕课](https://www.classcentral.com/list/20200525-1kq9p5fjrqx)
+
+## 慕课新闻
+
+## 免费优质慕课
+
+
+## [最新慕课](https://www.classcentral.com/list/20200525-1kq9p5fjrqx)
 
 
 1. [Consonants of American English Pronunciation](https://www.classcentral.com/course/american-english-pronunciation-consonant-sounds-19495)
@@ -69,7 +76,7 @@ University of Newcastle via edX
 
 
 
-## Part 2. 慕课新闻
+## 慕课新闻
 
 
 **1. [Class Central - 助你探索15000+在线课](https://www.classcentral.com)**
@@ -133,7 +140,7 @@ University of Newcastle via edX
 值得注意的是, 2019年我国高等教育在学人数是约为4002万人, 毛入学率51.6%, 该年龄段人口数估算约为7756万; 2018年在学人数是约为3833万人, 毛入学率48.1%, 该年龄段人口数估算约为7968万. 高等教育在学人数增加了169万, 而该年龄段人口则下降了212万. 
 
 
-## Part 3. 免费优质慕课
+## 免费优质慕课
 
 
 **1. [哈佛大学最火课程CS50](https://www.classcentral.com/report/harvard-cs50-guide)**
