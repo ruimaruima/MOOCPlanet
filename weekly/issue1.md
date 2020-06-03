@@ -1,8 +1,8 @@
-# 最新慕课
+## 1.最新慕课
 
-[本周最新慕课](https://github.com/ruimaruima/MOOCPlanet/issues/10)
+[最新慕课第1期](https://github.com/ruimaruima/MOOCPlanet/issues/10)
 
-# 慕课新闻
+## 2.慕课新闻
 
 1. [Class Central - 助你探索15000+在线课](https://github.com/ruimaruima/MOOCPlanet/issues/2)
 
@@ -18,7 +18,7 @@
 
 7. [2019年全国教育事业发展统计公报](https://github.com/ruimaruima/MOOCPlanet/issues/8)
 
-# 免费优质慕课
+## 3.免费优质慕课
 
 1. [哈佛大学最火课程CS50](https://github.com/ruimaruima/MOOCPlanet/issues/6)
 
