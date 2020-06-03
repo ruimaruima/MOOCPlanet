@@ -1,12 +1,5 @@
 ## [最新慕课](https://www.classcentral.com/list/20200525-1kq9p5fjrqx)
 
-## 慕课新闻
-
-## 免费优质慕课
-
-
-## [最新慕课](https://www.classcentral.com/list/20200525-1kq9p5fjrqx)
-
 
 1. [Consonants of American English Pronunciation](https://www.classcentral.com/course/american-english-pronunciation-consonant-sounds-19495)
 University of California, Irvine via Coursera
