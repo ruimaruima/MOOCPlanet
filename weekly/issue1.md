@@ -68,6 +68,22 @@ University of Michigan via Coursera
 University of Newcastle via edX
 
 
+## 优质慕课
+
+
+**1. [哈佛大学最火课程CS50](https://www.classcentral.com/report/harvard-cs50-guide)**
+
+<img width="800" alt="cs50" src="https://user-images.githubusercontent.com/28687848/83211652-413b7680-a190-11ea-891e-40eabb4cd0c7.png">
+
+CS50是哈佛大学为本科生提供的一门计算机导论课, 由教授[David J. Malan](https://cs.harvard.edu/malan)主讲, 从[2007年开课](https://www.thecrimson.com/article/2014/9/18/this-is-cs50)到[2012年登陆edX平台](https://www.harvardmagazine.com/2012/11/classroom-in-the-cloud), 一路受到全球学习者的喜爱,是哈佛大学历史上选课人次最多的课程.  
+
+最开始的一门课程[《CS50's Introduction to Computer Science》](https://www.edx.org/course/cs50s-introduction-to-computer-science)在edX平台上的选课人数已经超过200万, 后来在这门课的基础上团队又开发了另外9门CS50课程, 每门课程都有独立的网站. 
+
+Class Central2020年初总结了[如何学习CS50's Introduction to Computer Science并获得免费证书](https://www.classcentral.com/report/cs50-free-certificate), 前段时间又出了[CS50系列课程指南](https://www.classcentral.com/report/harvard-cs50-guide). 
+
+这周偶然发现了豆瓣[CS50小组](https://www.douban.com/group/cs50), 原来已经有小伙伴组建了团队对CS50's Introduction to Computer Science这门课程进行了翻译, 相关内容和视频已经发布在[GitHub](https://github.com/athena-xcy/CS50-Study-Group)和[Bilibili](https://www.bilibili.com/video/av81002940)上. 感谢组织者Athena和所有参与贡献的人. 
+
+
 
 ## 慕课新闻
 
@@ -131,19 +147,3 @@ University of Newcastle via edX
 5月20日, 教育部发布了[2019年全国教育事业发展统计公报](http://www.moe.gov.cn/jyb_sjzl/sjzl_fztjgb/202005/t20200520_456751.html). 截至2019年, 全国共有学校约53万所, 在校生约2.82亿人, 专任教师约1732万人.  
 
 值得注意的是, 2019年我国高等教育在学人数是约为4002万人, 毛入学率51.6%, 该年龄段人口数估算约为7756万; 2018年在学人数是约为3833万人, 毛入学率48.1%, 该年龄段人口数估算约为7968万. 高等教育在学人数增加了169万, 而该年龄段人口则下降了212万. 
-
-
-## 优质慕课
-
-
-**1. [哈佛大学最火课程CS50](https://www.classcentral.com/report/harvard-cs50-guide)**
-
-<img width="800" alt="cs50" src="https://user-images.githubusercontent.com/28687848/83211652-413b7680-a190-11ea-891e-40eabb4cd0c7.png">
-
-CS50是哈佛大学为本科生提供的一门计算机导论课, 由教授[David J. Malan](https://cs.harvard.edu/malan)主讲, 从[2007年开课](https://www.thecrimson.com/article/2014/9/18/this-is-cs50)到[2012年登陆edX平台](https://www.harvardmagazine.com/2012/11/classroom-in-the-cloud), 一路受到全球学习者的喜爱,是哈佛大学历史上选课人次最多的课程.  
-
-最开始的一门课程[《CS50's Introduction to Computer Science》](https://www.edx.org/course/cs50s-introduction-to-computer-science)在edX平台上的选课人数已经超过200万, 后来在这门课的基础上团队又开发了另外9门CS50课程, 每门课程都有独立的网站. 
-
-Class Central2020年初总结了[如何学习CS50's Introduction to Computer Science并获得免费证书](https://www.classcentral.com/report/cs50-free-certificate), 前段时间又出了[CS50系列课程指南](https://www.classcentral.com/report/harvard-cs50-guide). 
-
-这周偶然发现了豆瓣[CS50小组](https://www.douban.com/group/cs50), 原来已经有小伙伴组建了团队对CS50's Introduction to Computer Science这门课程进行了翻译, 相关内容和视频已经发布在[GitHub](https://github.com/athena-xcy/CS50-Study-Group)和[Bilibili](https://www.bilibili.com/video/av81002940)上. 感谢组织者Athena和所有参与贡献的人. 
