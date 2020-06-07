@@ -147,12 +147,3 @@ CS50是哈佛大学为本科生提供的一门计算机导论课, 由教授[Davi
 Class Central2020年初总结了[如何学习CS50's Introduction to Computer Science并获得免费证书](https://www.classcentral.com/report/cs50-free-certificate), 前段时间又出了[CS50系列课程指南](https://www.classcentral.com/report/harvard-cs50-guide). 
 
 这周偶然发现了豆瓣[CS50小组](https://www.douban.com/group/cs50), 原来已经有小伙伴组建了团队对CS50's Introduction to Computer Science这门课程进行了翻译, 相关内容和视频已经发布在[GitHub](https://github.com/athena-xcy/CS50-Study-Group)和[Bilibili](https://www.bilibili.com/video/av81002940)上. 感谢组织者Athena和所有参与贡献的人. 
-
-
-**2. [Full Stack Open 2020｜全栈公开课2020](https://fullstackopen.com)**
-
-<img width="800" alt="fullstack" src="https://user-images.githubusercontent.com/28687848/83352484-43632800-a37e-11ea-9e9c-de7e6d301c05.png">
-
-Full Stack Open 是由芬兰赫尔辛基大学讲师[Matti Luukkainen](https://github.com/mluukkai)和[Houston Inc](https://www.houston-inc.com/)合作开发的课程, 主要介绍基于JavaScript的现代Web开发技术, 课程涉及React, Redux, Node.js, MongoDB, GraphQL以及TypeScript(2020年新增内容), 重点在于利用 ReactJS搭配Node.js来搭建单页面应用程序(SPA:Single Page Application). 
-
-目前课程向所有人免费开放, 并提供证书, 截止日期为2021年1月10日. 前段时间课程上线了中文版, 由[Zhang Wei](https://zhangwei.online/blog)翻译, 感谢译者的辛勤付出. 
