@@ -1,71 +1,50 @@
-## [最新慕课](https://www.classcentral.com/list/20200525-1kq9p5fjrqx)
+## 最新慕课
 
+Class Central 发布了近一周的最新慕课, 查看完整[最新慕课清单](https://www.classcentral.com/list/20200525-1kq9p5fjrqx)
 
-1. [Consonants of American English Pronunciation](https://www.classcentral.com/course/american-english-pronunciation-consonant-sounds-19495)
-University of California, Irvine via Coursera
+1.  英文写作与编辑｜Writing and Editing: Word Choice and Word Order from University of Michigan
 
-2. [Writing and Editing: Word Choice and Word Order](https://www.classcentral.com/course/writing-editing-words-19555)
-University of Michigan via Coursera
+2. 软件测试导论｜Introduction to Software Testing from University of Minnesota
 
-3. [Introduction to Software Testing](https://www.classcentral.com/course/introduction-software-testing-19607) 
-University of Minnesota via Coursera
+3. 成为教师｜Becoming a teacher from The Open University
 
-4. [Becoming a teacher](https://www.classcentral.com/course/thinking-about-teaching-19489) 
-The Open University via FutureLearn
+4. 森林火灾的应对措施,救援和恢复｜Bushfires: Response, Relief and Resilience from University of Newcastle
 
-5. [Bushfires: Response, Relief and Resilience](https://www.classcentral.com/course/bushfires-19490) 
-University of Newcastle via FutureLearn
+5. 牙科学101｜Dentistry 101 from University of Michigan
 
-6. [The Pronunciation of American English Project](https://www.classcentral.com/course/pronunciation-american-english-project-19496) 
-University of California, Irvine via Coursera
+6. 以网页为基础的癌症预防｜Cancer Prevention Web-Based Activity from University of Virginia
 
-7. [Cancer Prevention Web-Based Activity](https://www.classcentral.com/course/prevent-cancer-19479) 
-University of Virginia via Coursera
+7. 预防和控制COVID-19系列讲座｜Lecture Series for Preventing and Controlling COVID-19 from Xi'an Jiaotong University
 
-8. [Lecture Series for Preventing and Controlling COVID-19](https://www.classcentral.com/course/covid-19lectureseries-19497)
-Xi'an Jiaotong University via Coursera
+8. 美式英语发音｜The Pronunciation of American English Project from University of California, Irvine
 
-9. [Understanding Medical Research: Your Facebook Friend is Wrong](https://www.classcentral.com/course/medical-research-19515)
-Yale University via Coursera
+9. 联合国可持续发展目标｜Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development from University of Michigan
 
-10. [Introduction to Cloud Computing](https://www.classcentral.com/course/introduction-to-cloud-19520)
-IBM via Coursera
+10. 理解医学研究｜Understanding Medical Research: Your Facebook Friend is Wrong from Yale University
 
-11. [Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development](https://www.classcentral.com/course/beyond-the-sustainable-development-goals-addressi-19485)
-University of Michigan via Coursera
+11. 云计算导论｜Introduction to Cloud Computing from IBM
 
-12. [Principles of Synthetic Biology](https://www.classcentral.com/course/edx-principles-of-synthetic-biology-4085) 
-Massachusetts Institute of Technology via edX
+12. 合成生物学原理｜Principles of Synthetic Biology from Massachusetts Institute of Technology
 
-13. [Electricity and Magnetism: Maxwell's Equations](https://www.classcentral.com/course/edx-electricity-and-magnetism-maxwell-s-equations-13068) 
-Massachusetts Institute of Technology via edX
+13. 电和磁: 麦克斯韦方程｜Electricity and Magnetism: Maxwell's Equations from Massachusetts Institute of Technology
 
-14. [COVID-19: Pandemics, Modelling, and Policy](https://www.classcentral.com/course/pandemics-modelling-and-policy-19501) 
-The Open University via FutureLearn
+14. COVID-19大流行,模型和政策｜COVID-19: Pandemics, Modelling, and Policy from The Open University
 
-15. [Work and Employment for a Sustainable Future](https://www.classcentral.com/course/edx-work-and-employment-for-a-sustainable-future-19505)
-SDG Academy via edX
+15. 适应未来可持续发展的工作与就业｜Work and Employment for a Sustainable Future from SDG Academy
 
-16. [IoT Programming and Big Data](https://www.classcentral.com/course/edx-iot-programming-and-big-data-9753)
-Curtin University via edX
+16. 物联网编程和大数据｜IoT Programming and Big Data from Curtin University
 
-17. [Introduction to Databases and SQL](https://www.classcentral.com/course/introduction-to-databases-and-sql-19476)
-Raspberry Pi Foundation via FutureLearn
+17. 数据库与SQL导论｜Introduction to Databases and SQL from Raspberry Pi Foundation
 
-18. [Next Steps to University: From Choosing A Course to Your First Assessment](https://www.classcentral.com/course/next-steps-to-university-from-choosing-a-course-t-19477)
-University of York via FutureLearn
+18. 进入大学的下一步: 选课与评估｜Next Steps to University: From Choosing A Course to Your First Assessment from University of York
 
-19. [Teaching Primary Science: Chemistry](https://www.classcentral.com/course/teaching-primary-science-chemistry-19481)
-National STEM Learning Centre via FutureLearn
+19. 教授小学化学｜Teaching Primary Science: Chemistry from National STEM Learning Centre
 
-20. [Becoming an Agent of Sustainable Change](https://www.classcentral.com/course/edx-becoming-an-agent-of-sustainable-change-18179)
-Wageningen University via edX
+20. 成为一个可持续变革的机构｜Becoming an Agent of Sustainable Change from Wageningen University
 
-21. [Dentistry 101](https://www.classcentral.com/course/dentistry101-13058)
-University of Michigan via Coursera
+21. 法律中的高冲突｜High Conflict in Law: An Introduction from University of Newcastle
 
-22. [High Conflict in Law: An Introduction](https://www.classcentral.com/course/edx-high-conflict-in-law-an-introduction-16882)
-University of Newcastle via edX
+22. 美式英语发音中的辅音｜Consonants of American English Pronunciation from University of California, Irvine
 
 
 ## 优质慕课
@@ -82,7 +61,6 @@ CS50是哈佛大学为本科生提供的一门计算机导论课, 由教授[Davi
 Class Central2020年初总结了[如何学习CS50's Introduction to Computer Science并获得免费证书](https://www.classcentral.com/report/cs50-free-certificate), 前段时间又出了[CS50系列课程指南](https://www.classcentral.com/report/harvard-cs50-guide). 
 
 这周偶然发现了豆瓣[CS50小组](https://www.douban.com/group/cs50), 原来已经有小伙伴组建了团队对CS50's Introduction to Computer Science这门课程进行了翻译, 相关内容和视频已经发布在[GitHub](https://github.com/athena-xcy/CS50-Study-Group)和[Bilibili](https://www.bilibili.com/video/av81002940)上. 感谢组织者Athena和所有参与贡献的人. 
-
 
 
 ## 慕课新闻
