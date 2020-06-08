@@ -1,50 +1,75 @@
-## 最新慕课
+## [Coursera | edX | FutureLearn 最新慕课第1期](https://www.classcentral.com/list/20200525-1kq9p5fjrqx)
 
-Class Central 发布了近一周的最新慕课, 查看完整[最新慕课清单](https://www.classcentral.com/list/20200525-1kq9p5fjrqx)
+Class Central 发布了近一周来自Coursera, edX, FutureLearn的最新慕课, 查看完整[最新慕课清单](https://www.classcentral.com/list/20200525-1kq9p5fjrqx)
 
-1.  英文写作与编辑｜Writing and Editing: Word Choice and Word Order from University of Michigan
+![ Wageningen University](https://user-images.githubusercontent.com/28687848/83988597-4eb5e500-a976-11ea-92ae-539a85520f3a.jpeg)
+瓦格宁根大学
 
-2. 软件测试导论｜Introduction to Software Testing from University of Minnesota
+1. 写作和编辑: 词汇的选择与次序｜密歇根大学
+Writing and Editing: Word Choice and Word Order from University of Michigan
 
-3. 成为教师｜Becoming a teacher from The Open University
+2. 软件测试导论｜明尼苏达大学
+Introduction to Software Testing from University of Minnesota
 
-4. 森林火灾的应对措施,救援和恢复｜Bushfires: Response, Relief and Resilience from University of Newcastle
+3. 成为一名教师｜英国开放大学
+Becoming a teacher from The Open University
 
-5. 牙科学101｜Dentistry 101 from University of Michigan
+4. 森林火灾的响应, 救援和恢复｜纽斯卡尔大学
+Bushfires: Response, Relief and Resilience from University of Newcastle
 
-6. 以网页为基础的癌症预防｜Cancer Prevention Web-Based Activity from University of Virginia
+5. 牙科学101｜密歇根大学
+Dentistry 101 from University of Michigan
 
-7. 预防和控制COVID-19系列讲座｜Lecture Series for Preventing and Controlling COVID-19 from Xi'an Jiaotong University
+6. 以网页为基础的癌症预防｜弗吉尼亚大学
+Cancer Prevention Web-Based Activity from University of Virginia
 
-8. 美式英语发音｜The Pronunciation of American English Project from University of California, Irvine
+7. COVID-19的预防和控制系列讲座｜西安交通大学
+Lecture Series for Preventing and Controlling COVID-19 from Xi'an Jiaotong University
 
-9. 联合国可持续发展目标｜Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development from University of Michigan
+8. 美式英语发音中的辅音｜加州大学尔湾分校
+The Pronunciation of American English Project from University of California, Irvine
 
-10. 理解医学研究｜Understanding Medical Research: Your Facebook Friend is Wrong from Yale University
+9. 联合国可持续发展目标之外: 如何解决可持续发展问题｜密歇根大学
+Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development from University of Michigan
 
-11. 云计算导论｜Introduction to Cloud Computing from IBM
+10. 理解医学研究: 你的Facebook好友可能是错误的｜耶鲁大学
+Understanding Medical Research: Your Facebook Friend is Wrong from Yale University
 
-12. 合成生物学原理｜Principles of Synthetic Biology from Massachusetts Institute of Technology
+11. 云计算导论｜IBM
+Introduction to Cloud Computing from IBM
 
-13. 电和磁: 麦克斯韦方程｜Electricity and Magnetism: Maxwell's Equations from Massachusetts Institute of Technology
+12. 合成生物学原理｜麻省理工大学
+Principles of Synthetic Biology from Massachusetts Institute of Technology
 
-14. COVID-19大流行,模型和政策｜COVID-19: Pandemics, Modelling, and Policy from The Open University
+13. 电和磁: 麦克斯韦方程｜麻省理工大学
+Electricity and Magnetism: Maxwell's Equations from Massachusetts Institute of Technology
 
-15. 适应未来可持续发展的工作与就业｜Work and Employment for a Sustainable Future from SDG Academy
+14. COVID-19大流行,模型和政策｜英国开放大学
+COVID-19: Pandemics, Modelling, and Policy from The Open University
 
-16. 物联网编程和大数据｜IoT Programming and Big Data from Curtin University
+15. 适应未来可持续发展的工作与就业｜SDG学院
+Work and Employment for a Sustainable Future from SDG Academy
 
-17. 数据库与SQL导论｜Introduction to Databases and SQL from Raspberry Pi Foundation
+16. 物联网编程和大数据｜科廷大学
+IoT Programming and Big Data from Curtin University
 
-18. 进入大学的下一步: 选课与评估｜Next Steps to University: From Choosing A Course to Your First Assessment from University of York
+17. 数据库与SQL导论｜树莓派基金会
+Introduction to Databases and SQL from Raspberry Pi Foundation
 
-19. 教授小学化学｜Teaching Primary Science: Chemistry from National STEM Learning Centre
+18. 进入大学的下一步: 选课与测评｜约克大学
+Next Steps to University: From Choosing A Course to Your First Assessment from University of York
 
-20. 成为一个可持续变革的机构｜Becoming an Agent of Sustainable Change from Wageningen University
+19. 教授小学化学｜英国国家STEM学习中心
+Teaching Primary Science: Chemistry from National STEM Learning Centre
 
-21. 法律中的高冲突｜High Conflict in Law: An Introduction from University of Newcastle
+20. 成为可持续发展的推动者｜瓦格宁根大学
+Becoming an Agent of Sustainable Change from Wageningen University
 
-22. 美式英语发音中的辅音｜Consonants of American English Pronunciation from University of California, Irvine
+21. 法律中的高度冲突行为｜纽斯卡尔大学
+High Conflict in Law: An Introduction from University of Newcastle
+
+22. 美式英语发音中的辅音｜加州大学尔湾分校
+Consonants of American English Pronunciation from University of California, Irvine
 
 
 ## 优质慕课
